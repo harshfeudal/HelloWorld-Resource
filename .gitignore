@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+
+# Solution file
+*.aps
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Others
+*.exe
